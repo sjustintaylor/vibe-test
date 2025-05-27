@@ -1,4 +1,4 @@
-import { VaultParameters } from "@/pages/vault-parameters/vault-parameters";
+import { VaultParameters } from "@/page-modules/vault-parameters";
 
 export default function VaultParametersPage() {
   return <VaultParameters />;
